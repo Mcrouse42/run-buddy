@@ -14,3 +14,5 @@ https://mcrouse42.github.io/run-buddy/
 
 <h2>Contribution</h2>
 Made with ❤️ by Matthew Crouse
+
+<h2>©️2019 Run Buddy, Inc</h2>
