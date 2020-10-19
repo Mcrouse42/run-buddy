@@ -1,4 +1,4 @@
-<h1>Run Buddy</h1>
+<h1>Run Buddy inc.</h1>
 
 <h2>Purpose</h2>
 <p>A website that offers fitness training services.</p>
