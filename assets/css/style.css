@@ -104,16 +104,14 @@ header nav ul li a {
 /* Hero Form Style End */
 
 /* What we do - What you do style */
-.intro {
-    text-align: center;
-}
 .section-title {
-    display: inline-block;
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
 }
 .primary-border {
     border-color: #fce138;
@@ -124,9 +122,9 @@ header nav ul li a {
     color: #39a6b2;
     width: 80%;
     font-size: 20px;
+    text-align: center;
 }
 .steps {
-    text-align: center;
     background: #fce138;
 }
 .secondary-border {
@@ -154,7 +152,6 @@ header nav ul li a {
 
 /* Trainers style */
 .trainers {
-    text-align: center;
 }
 .trainer {
     width: 900px;
@@ -172,12 +169,6 @@ header nav ul li a {
     float: left;
     width: 65%;
     }
-.text-left {
-    text-align: left;
-}
-.text-right {
-    text-align: right;
-}
 .trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
@@ -193,7 +184,6 @@ header nav ul li a {
 }
 /* REACH OUT STYLES START */
 .contact {
-    text-align: center;
     background: #024e76;
 }
 .contact h2 {
@@ -245,6 +235,18 @@ footer div {
 }
 footer a {
     color: #024e76
+}
+/* End footer styles */
+
+/* Utility styles */
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+.flex-row {
+    display: flex;
 }
 
 
